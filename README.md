@@ -4,7 +4,7 @@ Custom lightweight launcher for Amazing Online. Built for fast connection and sm
 
 ---
 
-### 🚀 What's inside
+### What's inside
 
 * **Fast Startup:** Bypasses bloated steps and launches straight into the game.
 * **Low RAM & CPU Usage:** Keeps background processes to an absolute minimum.
@@ -12,7 +12,7 @@ Custom lightweight launcher for Amazing Online. Built for fast connection and sm
 
 ---
 
-### 📦 Installation
+### Installation
 
 1. Grab the latest release build.
 2. Put `launcher.exe` into your game directory.
