@@ -1,4 +1,4 @@
-# ⚡ xaladzano-core
+#  xaladzano-core
 
 Custom lightweight launcher for Amazing Online. Built for fast connection and smooth performance without unnecessary overhead.
 
@@ -20,7 +20,7 @@ Custom lightweight launcher for Amazing Online. Built for fast connection and sm
 
 ---
 
-### 🛠️ Issues & Feedback
+### Issues & Feedback
 
 If you hit any crashes or bugs, open an issue here on GitHub.
 
